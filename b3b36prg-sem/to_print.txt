@@ -1,0 +1,24 @@
+
+
+How to use the aplication:
+    there are several keyboard inputs:
+        'q' - quit, quits the program
+        'a' - abort, aborts the computation
+        'g' - get, get version of computational_module
+        's' - set, sets parametres for next computation
+        'c' - compute, computes referece complex plain
+        '1' - compute, computes complex plain set by user
+        '←' - moves complex plain left
+        '↑' - moves complex plain up 
+        '→' - moves complex plain right
+        '↓' - moves complex plain down
+        'i' - in, zooms in 
+        'o' - out, zooms out
+        'l' - deletes current content of computation (buffer)
+        'e' - adds to real part of complex plain
+        'r' - lessens the real part of complex plain
+        't' - adds to imaginary part of complex plain
+        'y' - lessens the imaginary part of complex plain
+        'm' - adds to number of iterations
+        'n' - lessens the number of iterations
+
